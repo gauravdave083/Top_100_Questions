@@ -1,7 +1,9 @@
 # Top 100 Interview Questions for Service-Based Companies
 <br>
 
-Welcome to the repository that contains a curated list of the top 100 coding questions frequently asked in interviews for service-based companies. These questions are designed to help you master essential concepts and improve your problem-solving skills across a variety of topics.<br><br>
+Welcome to the repository that contains a curated list of the top 100 coding questions frequently asked in interviews for service-based companies. These questions are designed to help you master essential concepts and improve your problem-solving skills across a variety of topics.Below You will find some of the most important codes in Python. These codes are of prime importance for college semester exams and also for various online tests and interviews of the companies offering placements within varying range in LPA.
+
+These codes are very important since these will help you clear your basic concepts in various languages.<br><br>
 
 ## Topics Covered
 <br>
