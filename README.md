@@ -3,6 +3,8 @@
 Welcome to the repository that contains a curated list of the top 100 coding questions frequently asked in interviews for service-based companies. These questions are designed to help you master essential concepts and improve your problem-solving skills across a variety of topics.<br><br>
 
 ## Topics Covered
+<br>
+
 - **Number System:** Dive into problems involving number theory, operations, and patterns.<br>
 <br>
 
@@ -21,6 +23,8 @@ Welcome to the repository that contains a curated list of the top 100 coding que
 - **Printing Patterns:** Develop logic and creativity by printing various patterns, a common task in coding interviews.<br><br>
 
 ## Who Should Use This Repository?
+<br>
+
 - **Students and Fresh Graduates:** Ideal for those preparing for campus placements or entry-level job interviews.<br>
 <br>
 
