@@ -1,5 +1,6 @@
 # Top 100 Interview Questions for Service-Based Companies
-
+<br>
+<br>
 Welcome to the repository that contains a curated list of the top 100 coding questions frequently asked in interviews for service-based companies. These questions are designed to help you master essential concepts and improve your problem-solving skills across a variety of topics.<br><br>
 
 ## Topics Covered
@@ -33,5 +34,3 @@ Welcome to the repository that contains a curated list of the top 100 coding que
 
 - **Coding Enthusiasts:** Perfect for anyone looking to sharpen their coding skills in fundamental topics.<br><br>
 
-## How to Use This Repository
-- **Explore:** Browse through the prob
