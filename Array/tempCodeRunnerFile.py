@@ -1,1 +1,0 @@
-print(i ,freq[i])
