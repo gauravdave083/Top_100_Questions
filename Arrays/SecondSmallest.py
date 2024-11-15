@@ -32,20 +32,27 @@ print(second)
 
 # Method 2
 
-import math
-
 arr = [10, 13, 17, 11, 34, 21]
-first = second = math.inf
 
-for i in range(0, len(arr)):
-  if arr[i] < first:
-    second = first
-    first = arr[i]
+if len(arr) < 2:
+    print("Array must have at least two elements.")
+else:
+    first = arr[0]
+    second = None 
 
-  elif (arr[i] < second and arr[i] != first):
-    second = arr[i];
+    for i in range(1, len(arr)):
+        if arr[i] < first:
+            # Update second before first
+            second = first
+            first = arr[i]
+        elif arr[i] != first and (second is None or arr[i] < second):
+            # Update second if current element is greater than first but less than second
+            second = arr[i]
 
-print(second)
+    if second is None:
+        print("Array does not have a second smallest element.")
+    else:
+        print(second)
 
 
 # Method 3
